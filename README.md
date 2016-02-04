@@ -16,7 +16,7 @@ Good question. Designs aren't settled yet, but the goal is to create a playgroun
  * Clean, intuitive visualizations for operations
 
 For an example of a good visualization, check out this rotation animation from [Wikipedia](https://en.wikipedia.org/wiki/Tree_rotation):
-![tree rotation animation](https://en.wikipedia.org/wiki/Tree_rotation#/media/File:Tree_rotation_animation_250x250.gif)
+![tree rotation animation](https://upload.wikimedia.org/wikipedia/commons/3/31/Tree_rotation_animation_250x250.gif)
 
 ### What parts does this project have?
 Several. An initial wireframe is on the way, but we don't yet have a more detailed mockup for the page or designs for the tree elements. Designers welcome :D
