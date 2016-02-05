@@ -18,11 +18,13 @@ Good question. Designs aren't settled yet, but the goal is to create a playgroun
 For an example of a good visualization, check out this rotation animation from [Wikipedia](https://en.wikipedia.org/wiki/Tree_rotation):
 ![tree rotation animation](https://upload.wikimedia.org/wikipedia/commons/3/31/Tree_rotation_animation_250x250.gif)
 
+Here's an example [AVL tree visualization](https://www.cs.usfca.edu/~galles/visualization/AVLtree.html) that could have a better designed interface and that could present steps (particularly the rotations) individually instead of as a group. [And another](http://visualgo.net/bst.html#), which has a better visual design, but also doesn't make algorithm steps as clear as they can be.
+
 ### What parts does this project have?
 Several. An initial wireframe is on the way, but we don't yet have a more detailed mockup for the page or designs for the tree elements. Designers welcome :D
 
 We'll need to implement the particular data structures we're using in JavaScript. (Yes, we could import an [existing solution](https://github.com/vadimg/js_bintrees), but that's boring.)
 
-We'll want to display the data to the user, likely using a tool that's handy for displaying data and creating visualizations like [D3.js](http://d3js.org/).
+We'll want to display the data to the user, likely using a tool that's handy for displaying data and creating visualizations like [D3.js](http://d3js.org/) or perhaps HTML5 canvas.
 
 And, of course, we'll need the remaining UI elements. For this we can stick with D3 or, if appropriate, rope in another tool like React to build components and handle the views.
